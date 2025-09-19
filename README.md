@@ -9,7 +9,7 @@ I’ve created two custom NPX commands that instantly set up full-stack boilerpl
 Spin up a React app (Vite) with just one command:  
 
 ```bash
-npx create-react-tailwind-daisy
+# npx create-react-tailwind-daisy #
 Includes:
 
 🔹 Tailwind CSS
@@ -23,7 +23,7 @@ Includes:
 🔹 React Helmet
 ✨ Server Side (Backend)
 
-Instant setup for a Node.js Express server: npx create-express-server-starter
+Instant setup for a Node.js Express server: # npx create-express-server-starter #
 Includes:
 
 🔹 dotenv
