@@ -23,7 +23,7 @@ Includes:
 
 🔹 React Helmet
 
-🔹Sometime it can be isuee then run command : # npm install tailwindcss @tailwindcss/vite
+ ## Sometime it can be isuee then run command : npm install tailwindcss @tailwindcss/vite
 
 ✨ Server Side (Backend)
 
