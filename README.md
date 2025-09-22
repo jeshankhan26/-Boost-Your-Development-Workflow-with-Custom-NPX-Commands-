@@ -22,6 +22,9 @@ Includes:
 🔹 React Router
 
 🔹 React Helmet
+
+🔹Sometime it can be isuee then run command : #npm install tailwindcss @tailwindcss/vite
+
 ✨ Server Side (Backend)
 
 Instant setup for a Node.js Express server:
