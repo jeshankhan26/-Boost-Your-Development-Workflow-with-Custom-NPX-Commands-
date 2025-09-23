@@ -9,7 +9,7 @@ I’ve created two custom NPX commands that instantly set up full-stack boilerpl
 Spin up a React app (Vite) with just one command:  
 
 
-# npx create-react-tailwind-daisy #
+# npx create-react-tailwind-daisy && npm install tailwindcss @tailwindcss/vite #
 
 Includes:
 
@@ -23,7 +23,7 @@ Includes:
 
 🔹 React Helmet
 
- ## Sometime it can be isuee then run command : npm install tailwindcss @tailwindcss/vite
+
 
 ✨ Server Side (Backend)
 
