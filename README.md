@@ -9,7 +9,7 @@ I’ve created two custom NPX commands that instantly set up full-stack boilerpl
 Spin up a React app (Vite) with just one command:  
 
 
-# npx create-react-tailwind-daisy && npm install tailwindcss @tailwindcss/vite #
+# npx create-react-tailwind-daisy client_site && npm install tailwindcss @tailwindcss/vite #
 
 Includes:
 
