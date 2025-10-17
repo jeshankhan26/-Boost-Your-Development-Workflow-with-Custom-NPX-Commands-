@@ -10,7 +10,6 @@ Spin up a React app (Vite) with just one command:
 
 
 # npx create-react-client client_site # 
-<h1>then run below command </h1>
 # npm install tailwindcss @tailwindcss/vite #
 
 Includes:
