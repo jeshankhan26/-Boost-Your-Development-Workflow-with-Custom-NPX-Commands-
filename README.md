@@ -6,7 +6,7 @@ I’ve created two custom NPX commands that instantly set up full-stack boilerpl
 
 ## ✨ Client Side (Frontend)
 
-Spin up a React app (Vite) with just one command:  
+Spin up a React app (Vite) with just two command:  
 
 
 # npx create-react-client client_site # 
